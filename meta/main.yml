@@ -3,6 +3,7 @@
 dependencies: []
 
 galaxy_info:
+  role_name: 'ntp'
   author: 'Adfinis SyGroup AG'
   description: 'Install and manage ntp'
   company: 'Adfinis SyGroup AG'
